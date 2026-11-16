@@ -1,5 +1,7 @@
 # Student Performance Tracker (College Mini Project)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/siddharthtomar150-bit/Miniproject)
+
 A modern, full-stack web application designed for academic institutions to register students, record multi-subject marks, automatically compute totals, percentages, letter grades, and pass/fail statuses, and monitor real-time class performance metrics.
 
 ---

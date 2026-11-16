@@ -1,20 +1,19 @@
-# Python Virtual Environments
-.venv/
-venv/
-ENV/
-env/
-
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
+venv/
+.venv/
 
-# SQLite temp journal
-*.db-journal
+# Database
+*.db
+*.sqlite3
 
-# Editor and OS files
+# Environment variables
+.env
+
+# IDE
 .vscode/
-.idea/
+
+# System
 .DS_Store
 Thumbs.db
