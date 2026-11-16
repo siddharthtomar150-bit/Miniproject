@@ -104,6 +104,18 @@ Then visit: `http://localhost:5500`
 
 ---
 
+## ☁️ Deployment (Render.com)
+
+This project is fully configured for zero-configuration 1-click deployment on [Render](https://render.com).
+
+### Deployment Configuration
+- **Build Command**: `pip install -r requirements.txt`
+- **Start Command**: `python run.py`
+- **Environment**: Python 3 (Free Tier supported)
+- **Unified Architecture**: FastAPI serves both the REST API and the frontend dashboard from a single URL with zero CORS setup.
+
+---
+
 ## 🔒 Security & Data Integrity
 
 1. **Unique Roll Numbers**: Enforces institutional roll number uniqueness both client-side and at the database level.
